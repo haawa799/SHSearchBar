@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0810"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9B39A1C1D6D92B900E22022"
+               BlueprintIdentifier = "5D26A2061ED6E3DC00104C70"
                BuildableName = "SHSearchBar.framework"
                BlueprintName = "SHSearchBar"
-               ReferencedContainer = "container:SHSearchBar.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9B39A251D6D92B900E22022"
-               BuildableName = "SHSearchBarTests.xctest"
-               BlueprintName = "SHSearchBarTests"
                ReferencedContainer = "container:SHSearchBar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -40,29 +26,9 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      codeCoverageEnabled = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9B39A251D6D92B900E22022"
-               BuildableName = "SHSearchBarTests.xctest"
-               BlueprintName = "SHSearchBarTests"
-               ReferencedContainer = "container:SHSearchBar.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B91438D71D6D9A1900182124"
-            BuildableName = "iOS Example.app"
-            BlueprintName = "iOS Example"
-            ReferencedContainer = "container:Example/iOS Example.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -76,6 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5D26A2061ED6E3DC00104C70"
+            BuildableName = "SHSearchBar.framework"
+            BlueprintName = "SHSearchBar"
+            ReferencedContainer = "container:SHSearchBar.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -88,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B9B39A1C1D6D92B900E22022"
+            BlueprintIdentifier = "5D26A2061ED6E3DC00104C70"
             BuildableName = "SHSearchBar.framework"
             BlueprintName = "SHSearchBar"
             ReferencedContainer = "container:SHSearchBar.xcodeproj">
